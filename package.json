@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "bnhr",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "parcel": "^2.12.0"
   }
