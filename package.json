@@ -4,7 +4,8 @@
   "description": "A minimalist and professional online resume",
   "scripts": {
     "dev": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html"
+    "build": "parcel build ./src/index.html",
+    "build-gh": "parcel build ./src/index.html --dist-dir docs"
   },
   "keywords": [],
   "author": "bnhr",
